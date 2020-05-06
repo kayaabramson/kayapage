@@ -4,9 +4,7 @@ My website
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>These are the things I made in digital techniques</h1>
 
-<p>My first paragraph.</p>
 
-</body>
 </html>
