@@ -1,9 +1,9 @@
-# kaya's website
+# welcome to kaya's website
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>these are the things i made in digital techniques!</h1>
+<h1>these are the things she made in digital techniques!</h1>
 
 
 </html>
